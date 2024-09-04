@@ -96,6 +96,7 @@ ul {
   cursor: pointer;
   background-color: #4d5ae5;
   color: #ffffff;
+  font-size: 16px;
 }
 
 .button:hover {
@@ -107,6 +108,9 @@ ul {
   color: #ffffff;
 }
 
+.main-page h2 {
+  font-size: 56px;
+}
 .our-team {
   background-color: #f4f4fd;
 }
@@ -122,4 +126,32 @@ footer {
 
 #footer-title {
   color: #f4f4fd;
+}
+
+.text h2 {
+  font-size: 20px;
+}
+
+.text p {
+  font-size: 16px;
+}
+
+.our-team h2 {
+  font-size: 20px;
+}
+
+.our-team p {
+  font-size: 16px;
+}
+
+.our-portfolio h2 {
+  font-size: 20px;
+}
+
+.our-portfolio p {
+  font-size: 16px;
+}
+
+footer p {
+  font-size: 16px;
 }
