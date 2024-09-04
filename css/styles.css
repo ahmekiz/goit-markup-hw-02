@@ -94,11 +94,12 @@ ul {
 
 .button {
   cursor: pointer;
-  color: #4d5ae5;
+  background-color: #4d5ae5;
+  color: #ffffff;
 }
 
 .button:hover {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 .main-page {
