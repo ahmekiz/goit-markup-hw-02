@@ -100,3 +100,24 @@ ul {
 .button:hover {
   color: #404bbf;
 }
+
+.main-page {
+  background-color: #2e2f42;
+}
+
+.our-team {
+  background-color: #f4f4fd;
+}
+
+.our-portfolio {
+  background-color: #e7e9fc;
+}
+
+footer {
+  background-color: #2e2f42;
+  color: #f4f4fd;
+}
+
+#footer-title {
+  color: #f4f4fd;
+}
