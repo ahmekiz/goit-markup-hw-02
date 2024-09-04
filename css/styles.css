@@ -1,0 +1,88 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  font-size: 16px;
+}
+p {
+  line-height: 1.5em;
+}
+a {
+  text-decoration: none;
+}
+
+ul {
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.head-title {
+  font-family: "Raleway", sans-serif;
+  color: #4d5ae5;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 3%;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.studio-head {
+  color: #2e2f42;
+}
+
+.navbar li {
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+}
+
+#studio:hover {
+  color: #404bbf;
+}
+
+#portfolio:hover {
+  color: #404bbf;
+}
+#contacts:hover {
+  color: #404bbf;
+}
+
+#studio:active {
+  text-decoration: underline;
+}
+
+#mail {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color: #434455;
+}
+
+#telno {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color: #434455;
+}
+
+#mail:hover {
+  color: #404bbf;
+}
+
+#telno:hover {
+  color: #404bbf;
+}
+
+.button {
+  cursor: pointer;
+  color: #4d5ae5;
+}
+
+.button:hover {
+  color: #404bbf;
+}
